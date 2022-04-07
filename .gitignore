@@ -13,3 +13,6 @@
 .externalNativeBuild
 .cxx
 /src/main/jniLibs/armeabi-v7a/
+*/build/*
+*/install/*
+*/log/*
